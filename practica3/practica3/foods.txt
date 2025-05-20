@@ -1,0 +1,279 @@
+apple
+banana
+orange
+carrot
+broccoli
+chicken breast
+rice
+potato
+salmon
+egg
+avocado
+spinach
+tomato
+beef
+pork
+bread
+cheese
+yogurt
+butter
+milk
+pasta
+oats
+barley
+quinoa
+lentils
+beans
+chickpeas
+peanuts
+almonds
+walnuts
+cashews
+sesame seeds
+sunflower seeds
+flax seeds
+coconut
+pineapple
+mango
+strawberry
+blueberry
+raspberry
+blackberry
+grape
+pear
+peach
+plum
+cherry
+kiwi
+grapefruit
+honey
+sugar
+salt
+black pepper
+cinnamon
+ginger
+garlic
+basil
+parsley
+coriander
+turmeric
+chili pepper
+olive oil
+vegetable oil
+canola oil
+coffee
+tea
+chocolate
+corn syrup
+yeast
+tofu
+seitan
+tempeh
+mushrooms
+zucchini
+eggplant
+beets
+celery
+radish
+artichoke
+asparagus
+kale
+brussels sprouts
+green beans
+sweet potato
+pumpkin
+lettuce
+onion
+cauliflower
+cabbage
+peas
+shrimp
+tuna
+cod
+crab
+lobster
+duck
+turkey
+lamb
+veal
+bacon
+sausage
+ham
+meatball
+burger
+pizza
+pasta carbonara
+spaghetti bolognese
+lasagna
+sushi
+ramen
+pho
+curry chicken
+beef stew
+chili con carne
+fried rice
+paella
+tacos
+burrito
+enchiladas
+quesadilla
+falafel
+hummus
+guacamole
+nachos
+pancakes
+waffles
+omelette
+quiche
+risotto
+gnocchi
+pad thai
+spring rolls
+dumplings
+kimchi
+bibimbap
+bulgogi
+miso soup
+tempura
+fish and chips
+clam chowder
+BBQ ribs
+grilled cheese sandwich
+caesar salad
+greek salad
+caprese salad
+fruit salad
+ice cream
+cake
+brownies
+cookies
+croissant
+bagel
+muffin
+donut
+chocolate mousse
+tiramisu
+crepes
+salsa
+barbecue sauce
+ketchup
+mustard
+mayonnaise
+soy sauce
+vinegar
+maple syrup
+molasses
+pita bread
+naan
+baguette
+croquettes
+falafel
+shakshuka
+tabbouleh
+couscous
+ratatouille
+gazpacho
+borscht
+pierogi
+stuffed peppers
+meatloaf
+pot roast
+shepherd's pie
+macaroni and cheese
+fried chicken
+buffalo wings
+clam chowder
+lobster bisque
+shrimp scampi
+ceviche
+sashimi
+edamame
+tortilla
+chili peppers
+jalapeño
+poblano
+bell pepper
+arugula
+endive
+fennel
+leek
+okra
+parsnip
+radicchio
+rutabaga
+watercress
+turnip
+yam
+mung beans
+adzuki beans
+black beans
+kidney beans
+cannellini beans
+soy sauce
+sesame oil
+fish sauce
+hoisin sauce
+oyster sauce
+peanut butter
+nutella
+chocolate chips
+marshmallow
+whipped cream
+coconut milk
+almond milk
+cashew milk
+rice milk
+soy milk
+espresso
+latte
+cappuccino
+mocha
+chai tea
+bubble tea
+smoothie
+milkshake
+kombucha
+sourdough bread
+ciabatta
+focaccia
+baguette
+pumpernickel
+rye bread
+cornbread
+banana bread
+zucchini bread
+fruitcake
+gingerbread
+mango chutney
+tomato sauce
+alfredo sauce
+pesto
+bechamel sauce
+hollandaise sauce
+teriyaki sauce
+barbecue sauce
+chimichurri
+tabasco
+sriracha
+hot sauce
+garlic bread
+stuffed mushrooms
+deviled eggs
+bruschetta
+cauliflower rice
+zoodles (zucchini noodles)
+sweet and sour chicken
+general tso's chicken
+kung pao chicken
+mapo tofu
+laksa
+biryani
+dal
+naan bread
+chapati
+samosa
+spring rolls
+egg rolls
+dim sum
+bao buns
+peking duck
